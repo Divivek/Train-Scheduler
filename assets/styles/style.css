@@ -1,0 +1,11 @@
+ .navbar {
+     text-align: center;
+     background-color: grey;
+     font-size: 25px;
+    }
+     
+    footer {
+      background-color: #555;
+      color: white;
+      padding: 15px;
+    }
